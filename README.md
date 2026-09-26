@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:11111b,45:181825,100:cba6f7&text=CallMeRol&fontSize=48&fontColor=cdd6f4&fontAlignY=38&desc=Agentic%20AI%20%7C%20Reasoning%20Systems%20%7C%20Multimodal%20Workflows&descAlignY=58&fontFamily=Georgia&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:11111b,45:181825,100:cba6f7&text=Rolex&fontSize=48&fontColor=cdd6f4&fontAlignY=38&desc=Agentic%20AI%20%7C%20Reasoning%20Systems%20%7C%20Multimodal%20Workflows&descAlignY=58&fontFamily=Georgia&animation=fadeIn" alt="header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=24&duration=2800&pause=900&center=true&vCenter=true&width=900&color=cdd6f4&lines=Hi%2C+I%27m+Rolex.;Building+agentic+AI%2C+reasoning+%26+multimodal+systems.;From+math+training+to+production-grade+engineering." alt="Typing SVG" />
 
@@ -23,17 +23,6 @@
   <img src="https://raw.githubusercontent.com/CallMeRol/CallMeRol/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-
-
-
-<div align="center">
-  <a href="https://github.com/CallMeRol">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CallMeRol&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/CallMeRol">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CallMeRol&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=6" alt="Top languages" />
-  </a>
-</div>
 
 
 
