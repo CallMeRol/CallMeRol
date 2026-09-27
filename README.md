@@ -1,39 +1,25 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:11111b,45:181825,100:cba6f7&text=Rolex&fontSize=48&fontColor=cdd6f4&fontAlignY=38&desc=Agentic%20AI%20%7C%20Reasoning%20Systems%20%7C%20Multimodal%20Workflows&descAlignY=58&fontFamily=Georgia&animation=fadeIn" alt="header" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Libre+Baskerville&size=24&duration=2800&pause=900&center=true&vCenter=true&width=900&color=cdd6f4&lines=Hi%2C+I%27m+Rolex.;Building+agentic+AI%2C+reasoning+%26+multimodal+systems.;From+math+training+to+production-grade+engineering." alt="Typing SVG" />
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-cba6f7?style=for-the-badge" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/Focus-Reasoning%20Systems-89b4fa?style=for-the-badge" alt="Reasoning Systems" />
-  <img src="https://img.shields.io/badge/Focus-Multimodal%20Workflows-94e2d5?style=for-the-badge" alt="Multimodal Workflows" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Rank-1%2F68-f9e2af?style=flat-square&labelColor=1e1e2e" alt="Rank 1/68" />
-  <img src="https://img.shields.io/badge/Master-SYSU%202029-89b4fa?style=flat-square&labelColor=1e1e2e" alt="SYSU 2029" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20TypeScript%20%7C%20React-313244?style=flat-square&labelColor=181825" alt="Stack" />
-  <img src="https://img.shields.io/badge/Interest-Agents%20%7C%20Reasoning%20%7C%20Systems-f5c2e7?style=flat-square&labelColor=1e1e2e" alt="Interest" />
-</p>
-
+  <img width="880" src="assets/profile-card-v2.png" alt="Rolex — I make agents that actually ship. CallMeRol · formerly @toRolex (appeal in progress)" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CallMeRol/CallMeRol/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+## Selected Work
 
+> 原账号 **[@toRolex](https://github.com/toRolex)** 被错误封禁，申诉进行中 — 这里是我的新家，作品照常营业。
 
+- **[ai-video-pipeline](https://github.com/toRolex/ai-video-pipeline)** — AI 驱动的短视频自动化生产系统：control-plane + runtime-worker 架构，Web 前端全流程操作，生产环境在跑
+- **[Research-OS](https://github.com/toRolex/Research-OS)** — provider-neutral 科研 agent 系统：Agent Skills + typed Artifact 契约 + 确定性 CLI
+- **[periscope](https://github.com/toRolex/periscope)** — 给纯文本 coding agent 的视觉桥，把图片译成文字描述（GPL-3.0）
+- **[PostHub](https://github.com/toRolex/PostHub)** — 发布中枢：一个视频，一键/定时分发抖音、小红书、视频号
+- **[tuxevil-rotator](https://www.npmjs.com/package/tuxevil-rotator)** — multi-provider AI proxy rotator，per-model 路由 + 实时配额追踪（npm）
 
+## More
 
-<div align="center">
+- **[dictionary-of-ai-coding-zh](https://github.com/toRolex/dictionary-of-ai-coding-zh)** — AI 编程词典 · **[fund-pilot](https://github.com/toRolex/fund-pilot)** · **[pasteup](https://github.com/toRolex/pasteup)** · **[live-photo](https://github.com/toRolex/live-photo)** · **[sira](https://github.com/toRolex/sira)**
 
-<a href="https://v.douyin.com/5dHlAyLV1M0/"><img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="抖音" /></a>
-<a href="https://xhslink.com/m/5S1wEyfGJcz"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=book&logoColor=white" alt="小红书" /></a>
-<a href="mailto:torolex@163.com"><img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" /></a>
+## Contact
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=CallMeRol&color=cba6f7&style=flat-square&label=Profile+Views" alt="views" />
-</p>
-
+<div>
+  <a href="mailto:torolex@163.com"><img src="https://img.shields.io/badge/邮箱-torolex%40163.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="邮箱" /></a>
+  <a href="https://v.douyin.com/5dHlAyLV1M0/"><img src="https://img.shields.io/badge/抖音-000000?style=flat-square&logo=tiktok&logoColor=white" alt="抖音" /></a>
+  <a href="https://xhslink.com/m/5S1wEyfGJcz"><img src="https://img.shields.io/badge/小红书-FF2442?style=flat-square&logo=book&logoColor=white" alt="小红书" /></a>
 </div>
